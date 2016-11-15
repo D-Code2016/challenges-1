@@ -4,7 +4,6 @@
 **Challenge Details**
 Recreate the design below using only HTML and CSS. Don't worry about matching the colors exactly, focus on the shapes of the design.
 
-Example: 
 ![](images/ticTacToe.png)
 
 **ENTER YOUR SOLUTION HERE***
