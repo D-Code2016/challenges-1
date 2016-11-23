@@ -18,8 +18,9 @@ To complete this challenge you will need to add the solution to this file. To ad
 
 **Challenge Submission**
 When you've completed the challenge submit your solution by:
+
 1. Commit the changes you have made to this file.
-2. Type "problem solving" in the top box double check that you are committing to your "challenges0" branch.
+2. Type "problem solving" in the top box double check that you are committing to your "challenges1" branch.
 2. Click "Commit changes"
 
 
